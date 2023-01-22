@@ -10,7 +10,7 @@ En este repositorio se encuentra centralizada toda la información relativa a lo
 
 ## Requisitos y criterios a seguir
 
-Tanto los criterios generales como los criterios particulares por cada módulo se encuentran en [la Wiki de este repositorio](https://github.com/IESCampanillas/proyectos-dam-2023/wiki).
+Tanto los criterios generales como los criterios particulares por cada módulo se encuentran en la [**Wiki de este repositorio**](https://github.com/IESCampanillas/proyectos-dam-2023/wiki).
 
 ## Relación de proyectos
 
