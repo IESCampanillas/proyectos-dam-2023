@@ -14,36 +14,40 @@ Tanto los criterios generales como los criterios particulares por cada módulo s
 
 ## Relación de proyectos
 
+* [Antúnez Pérez, David]()
+* [Arrazouki, Hannane]()
+* [Benítez Ruíz, José Antonio]()
+* [Castillo Muñoz, María Natalia]()
+* [Cueto Jiménez, Alejandro]()
+* [Egea Hermoso, Adrián]()
+* [García Gómez, Sergio]()
+* [González Mora, Miguel]()
+* [Morales García, Sergio]()
+* [Moreno Aguilera, Javier]()
+* [Moreno González, Alberto]()
+* [Parra Toval, Alberto]()
+* [Rodríguez Barcos, Diego]()
+
+
+<!-- 
+ALUMNADO EXTRAORDINARIA DICIEMBRE
 * Aguilera Martín, Diego
-* Antúnez Pérez, David
-* Arrazouki, Hannane
-* Benítez Ruíz, José Antonio
-* Castillo Muñoz, María Natalia
-* Cueto Jiménez, Alejandro
 * Domínguez Gómez, Sergio
-* Egea Hermoso, Adrián
 * García Campoy, Daniel
-* García Gómez, Sergio
-* González Mora, Miguel
 * González Pons, Verónica
 * Fernández Linero, Álvaro
 * López Chiang, Salomón Surya
 * López Lozano, Santos
 * Millón Cortés, Manuel Alejandro
-* Morales García, Sergio
-* Moreno Aguilera, Javier
-* Moreno González, Alberto
 * Moreno Rodríguez, Javier
-* Parra Toval, Alberto
-* Rodríguez Barcos, Diego
-* Rosales Girón, José Antonio
 * Servia Morales, David
 * Sicilia Pérez, Francisco Javier
+-->
 
 # Calendario período ordinario
 
 ## 🗓️ Fechas a tener en cuenta
-* Anteproyecto: _por determinar_
+* Anteproyecto: **lunes 27 de marzo**
 * Revisión (checkpoint): _por determinar_
 * Entrega de proyecto: _por determinar_
 * Exposiciones: _por determinar_
