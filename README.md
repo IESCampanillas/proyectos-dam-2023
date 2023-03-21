@@ -13,7 +13,7 @@ En este repositorio se encuentra centralizada toda la información relativa a lo
 Tanto los criterios generales como los criterios particulares por cada módulo se encuentran en la [**Wiki de este repositorio**](https://github.com/IESCampanillas/proyectos-dam-2023/wiki).
 
 ## Relación de proyectos
-El alumnado deberá agruparse por parejas indicando claramente el **nombre del proyecto** y **quiénes forman el grupo**. El nombre del proyecto o de cada uno de los miembros deberá enlazar con el repositorio que hayan creado para el proyecto.
+El alumnado deberá agruparse por parejas indicando claramente el **nombre del proyecto** y **quiénes forman el grupo**. El nombre del proyecto o de cada uno de los miembros del grupo deberá enlazar con el repositorio que hayan creado para el proyecto.
 
 * [Antúnez Pérez, David]()
 * [Arrazouki, Hannane]()
