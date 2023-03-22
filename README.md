@@ -17,7 +17,7 @@ El alumnado deberá agruparse por parejas indicando claramente el **nombre del p
 
 * [Antúnez Pérez, David]()
 
-GRUPO: UpTravel - [Arrazouki, Hannane](https://github.com/HananeArrazouki/UpTravel) (nativo)
+GRUPO: [UpTravel](https://github.com/HananeArrazouki/UpTravel) - [Arrazouki, Hannane]() (nativo)
   
 * [Benítez Ruíz, José Antonio]()
   
