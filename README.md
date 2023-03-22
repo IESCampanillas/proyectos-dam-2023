@@ -17,11 +17,11 @@ El alumnado deberá agruparse por parejas indicando claramente el **nombre del p
 
 * [Antúnez Pérez, David]()
 
-GRUPO: <UpTravel> [Arrazouki, Hannane](https://github.com/HananeArrazouki/UpTravel) (nativo)
+GRUPO: UpTravel - [Arrazouki, Hannane](https://github.com/HananeArrazouki/UpTravel) (nativo)
   
 * [Benítez Ruíz, José Antonio]()
   
-GRUPO: <?> [Castillo Muñoz, María Natalia]() (híbrido) & [Egea Hermoso, Adrián]() (nativo)
+GRUPO: ? - [Castillo Muñoz, María Natalia]() (híbrido) & [Egea Hermoso, Adrián]() (nativo)
 
 * [Cueto Jiménez, Alejandro]() 
 * [García Gómez, Sergio]()
