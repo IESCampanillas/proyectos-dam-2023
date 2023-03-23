@@ -15,14 +15,16 @@ Tanto los criterios generales como los criterios particulares por cada módulo s
 ## Relación de proyectos
 El alumnado deberá agruparse por parejas indicando claramente el **nombre del proyecto** y **quiénes forman el grupo**. El nombre del proyecto o de cada uno de los miembros del grupo deberá enlazar con el repositorio que hayan creado para el proyecto. Se deberá indicar quién de cada miembro del grupo hará la parte en nativo y quién en híbrido.
 
+**PROYECTO: [UpTravel](https://github.com/HananeArrazouki/UpTravel)** 
+- [Arrazouki, Hanane](https://github.com/HananeArrazouki/UpTravel) (nativo)
+  
+**PROYECTO: ?**
+- [Castillo Muñoz, María Natalia]() (híbrido) 
+- [Egea Hermoso, Adrián]() (nativo)
+
+
 * [Antúnez Pérez, David]()
-
-GRUPO: [UpTravel](https://github.com/HananeArrazouki/UpTravel) - [Arrazouki, Hanane](https://github.com/HananeArrazouki/UpTravel) (nativo)
-  
 * [Benítez Ruíz, José Antonio]()
-  
-GRUPO: ? - [Castillo Muñoz, María Natalia]() (híbrido) & [Egea Hermoso, Adrián]() (nativo)
-
 * [Cueto Jiménez, Alejandro]() 
 * [García Gómez, Sergio]()
 * [González Mora, Miguel]()
