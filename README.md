@@ -22,9 +22,9 @@ El alumnado deberá agruparse por parejas indicando claramente el **nombre del p
 - [Castillo Muñoz, María Natalia]() (híbrido) 
 - [Egea Hermoso, Adrián]() (nativo)
 
-**PROYECTO: WorkLog**
-- [García Gómez, Sergio](https://github.com/javmoreno-developer/WorkLog) (nativo) 
-- [Moreno Aguilera, Javier](https://github.com/javmoreno-developer/WorkLog) (híbrido)
+**PROYECTO: [WorkLog](https://github.com/javmoreno-developer/WorkLog)**
+- [García Gómez, Sergio]([https://github.com/](https://github.com/SeryiDev)) (nativo) 
+- [Moreno Aguilera, Javier](https://github.com/javmoreno-developer) (híbrido)
 
 **PROYECTO: X**
 
