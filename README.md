@@ -23,7 +23,7 @@ El alumnado deberá agruparse por parejas indicando claramente el **nombre del p
 - [Egea Hermoso, Adrián]() (nativo)
 
 **PROYECTO: [WorkLog](https://github.com/javmoreno-developer/WorkLog)**
-- [García Gómez, Sergio]([https://github.com/](https://github.com/SeryiDev)) (nativo) 
+- [García Gómez, Sergio](https://github.com/](https://github.com/SeryiDev) (nativo) 
 - [Moreno Aguilera, Javier](https://github.com/javmoreno-developer) (híbrido)
 
 **PROYECTO: X**
