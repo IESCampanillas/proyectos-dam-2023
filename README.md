@@ -18,9 +18,9 @@ El alumnado deberá agruparse por parejas indicando claramente el **nombre del p
 **PROYECTO: [UpTravel](https://github.com/HananeArrazouki/UpTravel)** 
 - [Arrazouki, Hanane](https://github.com/HananeArrazouki/UpTravel) (nativo)
   
-**PROYECTO: ?**
-- [Castillo Muñoz, María Natalia]() (híbrido) 
-- [Egea Hermoso, Adrián]() (nativo)
+**PROYECTO: [FilmHome](https://github.com/AdrianEgeaHermoso/FilmHome)**
+- [Castillo Muñoz, María Natalia](https://github.com/mnataliacm) (híbrido) 
+- [Egea Hermoso, Adrián](https://github.com/AdrianEgeaHermoso) (nativo)
 
 **PROYECTO: [WorkLog](https://github.com/javmoreno-developer/WorkLog)**
 - [García Gómez, Sergio](https://github.com/SeryiDev) (nativo) 
