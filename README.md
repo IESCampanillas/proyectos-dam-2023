@@ -16,7 +16,7 @@ Tanto los criterios generales como los criterios particulares por cada módulo s
 El alumnado deberá agruparse por parejas indicando claramente el **nombre del proyecto** y **quiénes forman el grupo**. El nombre del proyecto o de cada uno de los miembros del grupo deberá enlazar con el repositorio que hayan creado para el proyecto. Se deberá indicar quién de cada miembro del grupo hará la parte en nativo y quién en híbrido.
 
 **PROYECTO: [UpTravel](https://github.com/HananeArrazouki/UpTravel)** 
-- [Arrazouki, Hanane](https://github.com/HananeArrazouki/UpTravel) (nativo)
+- [Arrazouki, Hanane](https://github.com/HananeArrazouki) (nativo)
   
 **PROYECTO: [FilmHome](https://github.com/AdrianEgeaHermoso/FilmHome)**
 - [Castillo Muñoz, María Natalia](https://github.com/mnataliacm) (híbrido) 
