@@ -26,7 +26,7 @@ El alumnado deberá agruparse por parejas indicando claramente el **nombre del p
 - [García Gómez, Sergio](https://github.com/SeryiDev) (nativo) 
 - [Moreno Aguilera, Javier](https://github.com/javmoreno-developer) (híbrido)
 
-**PROYECTO: [Fitness Gym]**
+**PROYECTO: [Fitness Gym]()**
 
 * [Benítez Ruíz, José Antonio](https://github.com/JoseAntonioBenitez) (Hibrido)
 * [Moreno González, Alberto]() (Nativo)
