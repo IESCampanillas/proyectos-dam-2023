@@ -28,7 +28,7 @@ El alumnado deberá agruparse por parejas indicando claramente el **nombre del p
 
 **PROYECTO: [SportTrack]**
 
-* [Benítez Ruíz, José Antonio]() (Hibrido)
+* [Benítez Ruíz, José Antonio](https://github.com/JoseAntonioBenitez) (Hibrido)
 * [Moreno González, Alberto]() (Nativo)
 
 **PROYECTO: X**
