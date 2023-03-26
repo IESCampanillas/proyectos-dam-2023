@@ -29,7 +29,7 @@ El alumnado deberá agruparse por parejas indicando claramente el **nombre del p
 **PROYECTO: [Fitness Gym]()**
 
 * [Benítez Ruíz, José Antonio](https://github.com/JoseAntonioBenitez) (Hibrido)
-* [Moreno González, Alberto]() (Nativo)
+* [Moreno González, Alberto](https://github.com/albertomorenogonzalez) (Nativo)
 
 **PROYECTO: X**
 
