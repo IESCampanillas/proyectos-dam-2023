@@ -42,9 +42,7 @@ El alumnado deberá agruparse por parejas indicando claramente el **nombre del p
 
 **PROYECTO: X**
 
-* [González Mora, Miguel]()
-
-* [Rodríguez Barcos, Diego]()
+* [Rodríguez Barcos, Diego](https://github.com/diegorodrii/MalagAparca)(Híbrido)
 
 
 <!-- 
