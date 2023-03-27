@@ -40,9 +40,9 @@ El alumnado deberá agruparse por parejas indicando claramente el **nombre del p
 * [Antúnez Pérez, David](https://github.com/davidantunezperez/)(Nativo)
 * [Cueto Jiménez, Alejandro](https://github.com/alecueto/)(Híbrido
 
-**PROYECTO: X**
+**PROYECTO: [MalagAparca](https://github.com/diegorodrii/MalagAparca)**
 
-* [Rodríguez Barcos, Diego](https://github.com/diegorodrii/MalagAparca)(Híbrido)
+* [Rodríguez Barcos, Diego](https://github.com/diegorodrii/)(Híbrido)
 
 
 <!-- 
