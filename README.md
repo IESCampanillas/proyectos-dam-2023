@@ -36,10 +36,12 @@ El alumnado deberá agruparse por parejas indicando claramente el **nombre del p
 * [Parra Toval, Alberto](https://github.com/AlbertoParraToval/HostHotel) (Hibrido)
 * [Morales García, Sergio](https://github.com/sergiomoralesgarcia/HostHotel) (Nativo)
 
+**PROYECTO: [Host Hotel](https://github.com/davidantunezperez/RestaurAPP)**
+* [Antúnez Pérez, David](https://github.com/davidantunezperez/)(Nativo)
+* [Cueto Jiménez, Alejandro](https://github.com/alecueto/)(Híbrido
+
 **PROYECTO: X**
 
-* [Antúnez Pérez, David]()
-* [Cueto Jiménez, Alejandro]() 
 * [González Mora, Miguel]()
 
 * [Rodríguez Barcos, Diego]()
