@@ -44,6 +44,9 @@ El alumnado deberá agruparse por parejas indicando claramente el **nombre del p
 
 * [Rodríguez Barcos, Diego](https://github.com/diegorodrii/)(Híbrido)
 
+**PROYECTO: [OptiManager2.0](https://github.com/Miguelgm1693/Project-OptiManager-2.0)**
+* [González Mora, Miguel](https://github.com/Miguelgm1693)(Híbrido)
+
 
 <!-- 
 ALUMNADO EXTRAORDINARIA DICIEMBRE
