@@ -67,7 +67,7 @@ ALUMNADO EXTRAORDINARIA DICIEMBRE
 
 ## 🗓️ Fechas a tener en cuenta
 * Anteproyecto: **lunes 27 de marzo** 
-* Revisión (checkpoint): _por determinar_
+* Revisión (checkpoint): **viernes 5 de mayo**
 * Entrega de proyecto: _por determinar_
 * Exposiciones: _por determinar_
 
