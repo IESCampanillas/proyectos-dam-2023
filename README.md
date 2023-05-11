@@ -37,7 +37,7 @@ El alumnado deberá agruparse por parejas indicando claramente el **nombre del p
 * [Morales García, Sergio](https://github.com/sergiomoralesgarcia/Host_Hotel) (Nativo)
 
 **PROYECTO: [RestaurAPP](https://github.com/davidantunezperez/RestaurAPP)**
-* [Antúnez Pérez, David](https://github.com/davidantunezperez/)(Nativo)
+* [Antúnez Pérez, David](https://github.com/davidantunezperez/RestaurAPP_Android)(Nativo)
 * [Cueto Jiménez, Alejandro](https://github.com/alecueto/)(Híbrido
 
 **PROYECTO: [MalagAparca](https://github.com/diegorodrii/MalagAparca)**
