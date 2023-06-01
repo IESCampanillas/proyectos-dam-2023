@@ -28,7 +28,7 @@ El alumnado deberá agruparse por parejas indicando claramente el **nombre del p
 
 **PROYECTO: [Fitness Gym](https://github.com/albertomorenogonzalez/FitnessGym)**
 
-* [Benítez Ruíz, José Antonio](https://github.com/JoseAntonioBenitez) (Hibrido)
+* [Benítez Ruíz, José Antonio](https://github.com/jbenrui/fitness-gym) (Hibrido)
 * [Moreno González, Alberto](https://github.com/albertomorenogonzalez) (Nativo)
 
 **PROYECTO: [Host Hotel](https://github.com/AlbertoParraToval/HostHotel_)**
