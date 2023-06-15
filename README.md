@@ -75,6 +75,22 @@ ALUMNADO EXTRAORDINARIA DICIEMBRE
 
 La duración de cada exposición será de 15 minutos (10 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Se deberá llegar unos 5 minutos antes del inicio de la presentación. Aquellos alumnos que aún no hayan finalizado su FCT, asistirán al centro únicamente para la exposición, debiendo regresar posteriormente a sus prácticas en la empresa.
 
+### :calendar: viernes 16 de junio de 2023
+
+* 09:15h [Sergio Morales García, Alberto Parra Toval](https://github.com/AlbertoParraToval/HostHotel_)
+
+### :calendar: lunes 19 de junio de 2023
+
+<!--
+* 09:15h [Hanane Arrazouki](https://github.com/HananeArrazouki/UpTravel)
+* 09:35h [María Natalia Castillo Muñoz, Adrián Egea Hermoso](https://github.com/AdrianEgeaHermoso/FilmHome)
+* 09:55h [Sergio García Gómez, Javier Moreno Aguilera](https://github.com/javmoreno-developer/WorkLog)
+* 10.15h [José Antonio Benítez Ruíz, Alberto Moreno González](https://github.com/albertomorenogonzalez/FitnessGym)
+* 10.35h [Diego Rodríguez Barcos](https://github.com/diegorodrii/MalagAparca)
+* 10.55h [Miguel González Mora](https://github.com/Miguelgm1693/Project-OptiManager-2.0)
+* 11:15h [David Antúnez Pérez, Alejandro Cueto Jiménez](https://github.com/davidantunezperez/RestaurAPP)
+-->
+
 ## :school: Lugar de las exposiciones
 
 Las presentaciones tendrán lugar en el **salón de actos** de la [**Incubadora**](https://goo.gl/maps/VGMpWnnpCZJQbP21A) sito en C/ Frederik Termann, 3. 29590, PTA.
