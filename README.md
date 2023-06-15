@@ -81,7 +81,6 @@ La duración de cada exposición será de 15 minutos (10 de exposición y 5 de p
 
 ### :calendar: lunes 19 de junio de 2023
 
-<!--
 * 09:15h [Hanane Arrazouki](https://github.com/HananeArrazouki/UpTravel)
 * 09:35h [María Natalia Castillo Muñoz, Adrián Egea Hermoso](https://github.com/AdrianEgeaHermoso/FilmHome)
 * 09:55h [Sergio García Gómez, Javier Moreno Aguilera](https://github.com/javmoreno-developer/WorkLog)
@@ -89,7 +88,6 @@ La duración de cada exposición será de 15 minutos (10 de exposición y 5 de p
 * 10.35h [Diego Rodríguez Barcos](https://github.com/diegorodrii/MalagAparca)
 * 10.55h [Miguel González Mora](https://github.com/Miguelgm1693/Project-OptiManager-2.0)
 * 11:15h [David Antúnez Pérez, Alejandro Cueto Jiménez](https://github.com/davidantunezperez/RestaurAPP)
--->
 
 ## :school: Lugar de las exposiciones
 
