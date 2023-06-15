@@ -77,7 +77,7 @@ La duración de cada exposición será de 15 minutos (10 de exposición y 5 de p
 
 ### :calendar: viernes 16 de junio de 2023
 
-* 09:15h [Sergio Morales García, Alberto Parra Toval](https://github.com/AlbertoParraToval/HostHotel_)
+* 09:30h [Sergio Morales García, Alberto Parra Toval](https://github.com/AlbertoParraToval/HostHotel_)
 
 ### :calendar: lunes 19 de junio de 2023
 
