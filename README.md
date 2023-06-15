@@ -38,7 +38,7 @@ El alumnado deberá agruparse por parejas indicando claramente el **nombre del p
 
 **PROYECTO: [RestaurAPP](https://github.com/davidantunezperez/RestaurAPP)**
 * [Antúnez Pérez, David](https://github.com/davidantunezperez/RestaurAPP_Android)(Nativo)
-* [Cueto Jiménez, Alejandro](https://github.com/alecueto/)(Híbrido
+* [Cueto Jiménez, Alejandro](https://github.com/AleCueto/restauraap)(Híbrido)
 
 **PROYECTO: [MalagAparca](https://github.com/diegorodrii/MalagAparca)**
 
