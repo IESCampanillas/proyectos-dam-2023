@@ -77,28 +77,27 @@ La duración de cada exposición será de 15 minutos (10 de exposición y 5 de p
 
 ### :calendar: viernes 16 de junio de 2023
 
-* 09:30h [Sergio Morales García, Alberto Parra Toval](https://github.com/AlbertoParraToval/HostHotel_)
+:white_check_mark: 09:30h [Sergio Morales García, Alberto Parra Toval](https://github.com/AlbertoParraToval/HostHotel_) 
 
 ### :calendar: lunes 19 de junio de 2023
 
 * 09:15h [Hanane Arrazouki](https://github.com/HananeArrazouki/UpTravel)
 * 09:35h [María Natalia Castillo Muñoz, Adrián Egea Hermoso](https://github.com/AdrianEgeaHermoso/FilmHome)
-* 09:55h [Sergio García Gómez, Javier Moreno Aguilera](https://github.com/javmoreno-developer/WorkLog)
+* 09:55h [David Antúnez Pérez, Alejandro Cueto Jiménez](https://github.com/davidantunezperez/RestaurAPP)
 * 10.15h [José Antonio Benítez Ruíz, Alberto Moreno González](https://github.com/albertomorenogonzalez/FitnessGym)
 * 10.35h [Diego Rodríguez Barcos](https://github.com/diegorodrii/MalagAparca)
-* 10.55h [Miguel González Mora](https://github.com/Miguelgm1693/Project-OptiManager-2.0)
-* 11:15h [David Antúnez Pérez, Alejandro Cueto Jiménez](https://github.com/davidantunezperez/RestaurAPP)
+* 10:55h [Sergio García Gómez, Javier Moreno Aguilera](https://github.com/javmoreno-developer/WorkLog)
+
 
 ## :school: Lugar de las exposiciones
 
-Las presentaciones tendrán lugar en el **salón de actos** de la [**Incubadora**](https://goo.gl/maps/VGMpWnnpCZJQbP21A) sito en C/ Frederik Termann, 3. 29590, PTA.
+Las presentaciones tendrán lugar en el **AULA ATECA** de la [**Incubadora**](https://goo.gl/maps/VGMpWnnpCZJQbP21A) sito en C/ Frederik Termann, 3. 29590, PTA.
 
 Mapa ubicación             | 
 :-------------------------:|
 <a href="https://goo.gl/maps/VGMpWnnpCZJQbP21A" target="_blank">
-  <img src="https://github.com/IESCampanillas/proyectos-dam-2021/blob/master/IESCFP_mapa_ubicacion.png" width="300" />
+  <img src="https://github.com/IESCampanillas/proyectos-dam-2021/blob/master/IESCFP_mapa_ubicacion.png" width="600" />
 </a>
-
 
 <hr>
 
