@@ -81,9 +81,9 @@ La duración de cada exposición será de 15 minutos (10 de exposición y 5 de p
 
 ### :calendar: lunes 19 de junio de 2023
 
-* 09:15h [Hanane Arrazouki](https://github.com/HananeArrazouki/UpTravel)
-* 09:35h [María Natalia Castillo Muñoz, Adrián Egea Hermoso](https://github.com/AdrianEgeaHermoso/FilmHome)
-* 09:55h [David Antúnez Pérez, Alejandro Cueto Jiménez](https://github.com/davidantunezperez/RestaurAPP)
+:white_check_mark: 09:15h [Hanane Arrazouki](https://github.com/HananeArrazouki/UpTravel)
+:white_check_mark: 09:35h [María Natalia Castillo Muñoz, Adrián Egea Hermoso](https://github.com/AdrianEgeaHermoso/FilmHome)
+:white_check_mark: 09:55h [David Antúnez Pérez, Alejandro Cueto Jiménez](https://github.com/davidantunezperez/RestaurAPP)
 * 10.15h [José Antonio Benítez Ruíz, Alberto Moreno González](https://github.com/albertomorenogonzalez/FitnessGym)
 * 10.35h [Diego Rodríguez Barcos](https://github.com/diegorodrii/MalagAparca)
 * 10:55h [Sergio García Gómez, Javier Moreno Aguilera](https://github.com/javmoreno-developer/WorkLog)
