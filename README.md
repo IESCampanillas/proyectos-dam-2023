@@ -86,7 +86,7 @@ La duración de cada exposición será de 15 minutos (10 de exposición y 5 de p
 :white_check_mark: 09:55h [David Antúnez Pérez, Alejandro Cueto Jiménez](https://github.com/davidantunezperez/RestaurAPP)<br/>
 :white_check_mark: 10.15h [José Antonio Benítez Ruíz, Alberto Moreno González](https://github.com/albertomorenogonzalez/FitnessGym)<br/>
 :white_check_mark: 10.35h [Diego Rodríguez Barcos](https://github.com/diegorodrii/MalagAparca)<br/>
-* 10:55h [Sergio García Gómez, Javier Moreno Aguilera](https://github.com/javmoreno-developer/WorkLog)
+:white_check_mark: 10:55h [Sergio García Gómez, Javier Moreno Aguilera](https://github.com/javmoreno-developer/WorkLog)
 
 
 ## :school: Lugar de las exposiciones
